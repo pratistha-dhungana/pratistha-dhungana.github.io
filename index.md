@@ -35,7 +35,7 @@
 * **Libraries & Frameworks:** Pandas, Django, PySpark, PyTest, Shiny, ggplot2, NumPy, scikit-learn, matplotlib, Bootstrap
 * **Data & Tools:** REST APIs, Git, PowerBI, Tableau, Microsoft SQL Server, Azure Data Studio
 * **Core Competencies:** Systems Architecture, ETL Pipelines, NLP & Machine Learning, Technical Translation
-* **Go Back:** [⬆️ Back to Top](#)
+
 
 ---
 
@@ -54,8 +54,6 @@
 > **Tech Stack:** Python, Django, REST APIs, OAuth 2.0 <br>
 > **Overview:** Engineered an advanced movie recommendation platform, integrating a complex external database API and Google Sign-In authentication to deliver personalized user feeds.
 
-* **Go Back:** [⬆️ Back to Top](#)
-
 ---
 
 <a id="experience"></a>
@@ -73,7 +71,7 @@
 * Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR.
 * Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.
 
-* **Go Back:** [⬆️ Back to Top](#)
+
 
 ---
 
@@ -84,8 +82,6 @@
 * **Degrees:** B.A. Computer Science & B.A. Applied Statistics | **Minor:** Data Science
 * **Core Engineering:** Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity
 * **Advanced Analytics & ML:** Statistical Machine Learning, Machine Learning (CS & DS), Data Analysis with Python, Data Science Systems
-
-* **Go Back:** [⬆️ Back to Top](#)
 
 ---
 
