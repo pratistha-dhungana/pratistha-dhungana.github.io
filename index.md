@@ -17,22 +17,23 @@
 </table>
 </div>
 
+---
 
-## Technical Arsenal
+## 🛠️ Technical Arsenal
 <details>
-  <summary><b>Click to expand my tech stack</b></summary>
-  <br>
-  <ul>
-    <li><b>Languages:</b> Python, R, Java, SQL</li>
-    <li><b>Libraries & Frameworks:</b> Pandas, Django, PySpark, PyTest, Shiny, ggplot2, NumPy, scikit-learn, matplotlib, Bootstrap</li>
-    <li><b>Data & Tools:</b> REST APIs, Git, PowerBI, Tableau, Microsoft SQL Server, Azure Data Studio</li>
-    <li><b>Core Competencies:</b> Systems Architecture, ETL Pipelines, NLP & Machine Learning, Technical Translation</li>
-  </ul>
+<summary><b>Click to expand my tech stack</b></summary>
+<br>
+<ul>
+<li><b>Languages:</b> Python, R, Java, SQL</li>
+<li><b>Libraries & Frameworks:</b> Pandas, Django, PySpark, PyTest, Shiny, ggplot2, NumPy, scikit-learn, matplotlib, Bootstrap</li>
+<li><b>Data & Tools:</b> REST APIs, Git, PowerBI, Tableau, Microsoft SQL Server, Azure Data Studio</li>
+<li><b>Core Competencies:</b> Systems Architecture, ETL Pipelines, NLP & Machine Learning, Technical Translation</li>
+</ul>
 </details>
 
 ---
 
-## Featured Projects
+## 💻 Featured Projects
 
 ### [Time Optimization Engine](link-to-your-repo)
 * **Tech Stack:** Python
@@ -51,32 +52,32 @@
 ## 💼 Experience
 
 <details>
-  <summary><b>Data Analyst Intern | Virginia Department of Transportation (VDOT)</b></summary>
-  <ul>
-    <li>Cleaned and validated over 10,000 records using Python, Pandas, and Excel, implementing automated checks for schema consistency that reduced manual data cleanup by 35%.</li>
-    <li>Analyzed statewide survey data across nine districts and delivered an executive presentation to senior management that provided actionable recommendations adopted for the upcoming program cycle.</li>
-  </ul>
+<summary><b>Data Analyst Intern | Virginia Department of Transportation (VDOT)</b></summary>
+<ul>
+<li>Cleaned and validated over 10,000 records using Python, Pandas, and Excel, implementing automated checks for schema consistency that reduced manual data cleanup by 35%.</li>
+<li>Analyzed statewide survey data across nine districts and delivered an executive presentation to senior management that provided actionable recommendations adopted for the upcoming program cycle.</li>
+</ul>
 </details>
 
 <details>
-  <summary><b>Software Developer Intern | Netheart Technology</b></summary>
-  <ul>
-    <li>Engineered back-end Python components to manage database responses, ensuring seamless front-end integration.</li>
-    <li>Developed automated tests to validate code correctness and collaborated within an Agile framework to elevate system reliability.</li>
-  </ul>
+<summary><b>Software Developer Intern | Netheart Technology</b></summary>
+<ul>
+<li>Engineered back-end Python components to manage database responses, ensuring seamless front-end integration.</li>
+<li>Developed automated tests to validate code correctness and collaborated within an Agile framework to elevate system reliability.</li>
+</ul>
 </details>
 
 <details>
-  <summary><b>Private Equity Spring Analyst | Lionchase North America</b></summary>
-  <ul>
-    <li>Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR[cite: 24, 25].</li>
-    <li>Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.</li>
-  </ul>
+<summary><b>Private Equity Spring Analyst | Lionchase North America</b></summary>
+<ul>
+<li>Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR.</li>
+<li>Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.</li>
+</ul>
 </details>
 
 ---
 
-## Education
+## 🎓 Education
 
 **University of Virginia** | May 2026
 * **Degrees:** B.A. Computer Science & B.A. Applied Statistics | **Minor:** Data Science
@@ -85,10 +86,10 @@
 
 ---
 
-## Recommendations
+## 💬 Recommendations
 
-"Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
-— Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)
+> "Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
+> <br>— *Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)*
 
 ---
 
