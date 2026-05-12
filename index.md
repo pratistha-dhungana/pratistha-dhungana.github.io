@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td width="30%" align="center">
-        <img src="[image/profile.jpg]" width="200" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
+        <img src="[image/profile.JPG]" width="200" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
       </td>
       <td width="70%">
         <h1>Pratistha Dhungana</h1>
