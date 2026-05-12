@@ -10,7 +10,7 @@
 <p>Whether I am architecting logic engines to optimize human workflows or building robust pipelines to translate physiological data into actionable insights, I focus on the 'why' behind the technology.</p>
 <br>
 <a href="https://www.linkedin.com/in/pratistha-dhungana-4ba3a6251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="[link-to-github]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/pratistha-dhungana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:pdhunga0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </td>
 </tr>
