@@ -94,4 +94,5 @@ When I am not on my computer, you can usually find me:
 * 🍳 **Global Culinary Experiments:** Testing out and learning new recipes from different cultures around the world.
 * 🏓 **Exploring New Hobbies:** Constantly trying to learn new things, whether that is figuring out how to play pickleball or researching the psychology of what makes fitness habits actually stick.
 
-* **Go Back:** [⬆️ Back to Top](#)
+
+**Go Back:** [⬆️ Back to Top](#)
