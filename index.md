@@ -17,66 +17,67 @@
 </table>
 </div>
 
+<div align="center">
+  <h3>
+    <a href="#technical-arsenal">🛠️ Tech Stack</a> &nbsp; | &nbsp;
+    <a href="#featured-projects">💻 Projects</a> &nbsp; | &nbsp;
+    <a href="#experience">💼 Experience</a> &nbsp; | &nbsp;
+    <a href="#education">🎓 Education</a> &nbsp; | &nbsp;
+    <a href="#beyond-the-screen">📷 Beyond the Screen</a>
+  </h3>
+</div>
+
 ---
 
+<a id="technical-arsenal"></a>
 ## 🛠️ Technical Arsenal
-<details>
-<summary><b>Click to expand my tech stack</b></summary>
-<br>
-<ul>
-<li><b>Languages:</b> Python, R, Java, SQL</li>
-<li><b>Libraries & Frameworks:</b> Pandas, Django, PySpark, PyTest, Shiny, ggplot2, NumPy, scikit-learn, matplotlib, Bootstrap</li>
-<li><b>Data & Tools:</b> REST APIs, Git, PowerBI, Tableau, Microsoft SQL Server, Azure Data Studio</li>
-<li><b>Core Competencies:</b> Systems Architecture, ETL Pipelines, NLP & Machine Learning, Technical Translation</li>
-</ul>
-</details>
+* **Languages:** Python, R, Java, SQL
+* **Libraries & Frameworks:** Pandas, Django, PySpark, PyTest, Shiny, ggplot2, NumPy, scikit-learn, matplotlib, Bootstrap
+* **Data & Tools:** REST APIs, Git, PowerBI, Tableau, Microsoft SQL Server, Azure Data Studio
+* **Core Competencies:** Systems Architecture, ETL Pipelines, NLP & Machine Learning, Technical Translation
+* **Go Back:** [⬆️ Back to Top](#)
 
 ---
 
+<a id="featured-projects"></a>
 ## 💻 Featured Projects
 
 ### [Time Optimization Engine](link-to-your-repo)
-* **Tech Stack:** Python
-* **Overview:** Architected a backend scheduling application leveraging the Eisenhower Matrix logic to automate task prioritization, using systems architecture to solve behavioral time-management challenges.
+> **Tech Stack:** Python <br>
+> **Overview:** Architected a backend scheduling application leveraging the Eisenhower Matrix logic to automate task prioritization, using systems architecture to solve behavioral time-management challenges.
 
 ### [Twitter Sentiment Analysis (NLP)](link-to-your-repo)
-* **Tech Stack:** Python, Machine Learning (TF-IDF, SVM, Naive Bayes)
-* **Overview:** Built an end-to-end NLP pipeline on ~1.6M tweets, utilizing robust text cleaning and machine learning classifiers to extract distinctive themes and analyze data sentiment.
+> **Tech Stack:** Python, Machine Learning (TF-IDF, SVM, Naive Bayes) <br>
+> **Overview:** Built an end-to-end NLP pipeline on ~1.6M tweets, utilizing robust text cleaning and machine learning classifiers to extract distinctive themes and analyze data sentiment.
 
 ### [Popcorn Picks](link-to-your-repo)
-* **Tech Stack:** Python, Django, REST APIs, OAuth 2.0
-* **Overview:** Engineered an advanced movie recommendation platform, integrating a complex external database API and Google Sign-In authentication to deliver personalized user feeds.
+> **Tech Stack:** Python, Django, REST APIs, OAuth 2.0 <br>
+> **Overview:** Engineered an advanced movie recommendation platform, integrating a complex external database API and Google Sign-In authentication to deliver personalized user feeds.
+
+* **Go Back:** [⬆️ Back to Top](#)
 
 ---
 
+<a id="experience"></a>
 ## 💼 Experience
 
-<details>
-<summary><b>Data Analyst Intern | Virginia Department of Transportation (VDOT)</b></summary>
-<ul>
-<li>Cleaned and validated over 10,000 records using Python, Pandas, and Excel, implementing automated checks for schema consistency that reduced manual data cleanup by 35%.</li>
-<li>Analyzed statewide survey data across nine districts and delivered an executive presentation to senior management that provided actionable recommendations adopted for the upcoming program cycle.</li>
-</ul>
-</details>
+### Data Analyst Intern | Virginia Department of Transportation (VDOT)
+* Cleaned and validated over 10,000 records using Python, Pandas, and Excel, implementing automated checks for schema consistency that reduced manual data cleanup by 35%.
+* Analyzed statewide survey data across nine districts and delivered an executive presentation to senior management that provided actionable recommendations adopted for the upcoming program cycle.
 
-<details>
-<summary><b>Software Developer Intern | Netheart Technology</b></summary>
-<ul>
-<li>Engineered back-end Python components to manage database responses, ensuring seamless front-end integration.</li>
-<li>Developed automated tests to validate code correctness and collaborated within an Agile framework to elevate system reliability.</li>
-</ul>
-</details>
+### Software Developer Intern | Netheart Technology
+* Engineered back-end Python components to manage database responses, ensuring seamless front-end integration.
+* Developed automated tests to validate code correctness and collaborated within an Agile framework to elevate system reliability.
 
-<details>
-<summary><b>Private Equity Spring Analyst | Lionchase North America</b></summary>
-<ul>
-<li>Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR.</li>
-<li>Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.</li>
-</ul>
-</details>
+### Private Equity Spring Analyst | Lionchase North America
+* Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR.
+* Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.
+
+* **Go Back:** [⬆️ Back to Top](#)
 
 ---
 
+<a id="education"></a>
 ## 🎓 Education
 
 **University of Virginia** | May 2026
@@ -84,15 +85,11 @@
 * **Core Engineering:** Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity
 * **Advanced Analytics & ML:** Statistical Machine Learning, Machine Learning (CS & DS), Data Analysis with Python, Data Science Systems
 
----
-
-## 💬 Recommendations
-
-> "Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
-> <br>— *Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)*
+* **Go Back:** [⬆️ Back to Top](#)
 
 ---
 
+<a id="beyond-the-screen"></a>
 ## 📷 Beyond the Screen
 When I am not on my computer, you can usually find me: 
 
@@ -100,3 +97,5 @@ When I am not on my computer, you can usually find me:
 * 📖 **Literary Escapes:** Reading American classics and realistic fiction. *(Currently reading: The Book Thief by Markus Zusak)*
 * 🍳 **Global Culinary Experiments:** Testing out and learning new recipes from different cultures around the world.
 * 🏓 **Exploring New Hobbies:** Constantly trying to learn new things, whether that is figuring out how to play pickleball or researching the psychology of what makes fitness habits actually stick.
+
+* **Go Back:** [⬆️ Back to Top](#)
