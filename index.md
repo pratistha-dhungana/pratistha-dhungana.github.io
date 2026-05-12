@@ -76,8 +76,7 @@
 ## 🎓 Education
 
 **University of Virginia** | May 2026
-* **Degrees**: **B.A. Computer Science & B.A. Applied Statistics**
-* **Minor**: **Data Science**
+* **Degrees**: **Computer Science & Applied Statistics** | **Minor**: **Data Science**
 * **Core Engineering**: Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity
 * **Advanced Analytics**: Statistical Machine Learning, Machine Learning, Data Analysis with Python, Data Science Systems
 
