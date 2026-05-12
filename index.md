@@ -1,22 +1,21 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="30%" align="center">
-        <img src="https://github.com/pratistha-dhungana/pratistha-dhungana.github.io/blob/main/image/profile.JPG" width="200" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
-      </td>
-      <td width="70%">
-        <h1>Pratistha Dhungana</h1>
-        <p>I am a systems thinker passionate about using technology and data to solve human behavioral problems. With a dual background in Computer Science and Applied Statistics, I specialize in bridging the gap between complex backend architecture and intuitive, client-facing solutions.</p>
-        <p>Whether I am architecting logic engines to optimize human workflows or building robust pipelines to translate physiological data into actionable insights, I focus on the 'why' behind the technology.</p>
-        
-        <a href="https://www.linkedin.com/in/pratistha-dhungana-4ba3a6251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="[link-to-github]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-        <a href="mailto:pdhunga0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://raw.githubusercontent.com/pratistha-dhungana/pratistha-dhungana.github.io/main/image/profile.JPG" width="200" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
+</td>
+<td width="70%">
+<h1>Pratistha Dhungana</h1>
+<p>I am a systems thinker passionate about using technology and data to solve human behavioral problems. With a dual background in Computer Science and Applied Statistics, I specialize in bridging the gap between complex backend architecture and intuitive, client-facing solutions.</p>
+<p>Whether I am architecting logic engines to optimize human workflows or building robust pipelines to translate physiological data into actionable insights, I focus on the 'why' behind the technology.</p>
+<br>
+<a href="https://www.linkedin.com/in/pratistha-dhungana-4ba3a6251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="[link-to-github]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:pdhunga0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</td>
+</tr>
+</table>
 </div>
-
 ---
 
 ## Technical Arsenal
