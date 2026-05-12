@@ -79,8 +79,8 @@
 
 **Degrees:** Computer Science & Applied Statistics | **Minor:** Data Science 
 
-**Core Engineering:** Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity 
-**Advanced Analytics:** Statistical Machine Learning, Machine Learning, Data Analysis with Python, Data Science Systems
+* **Core Engineering:** Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity 
+* **Advanced Analytics:** Statistical Machine Learning, Machine Learning, Data Analysis with Python, Data Science Systems
 
 ---
 
