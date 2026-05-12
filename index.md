@@ -16,7 +16,7 @@
 </tr>
 </table>
 </div>
----
+
 
 ## Technical Arsenal
 <details>
