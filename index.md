@@ -70,7 +70,7 @@
   <summary><b>Private Equity Spring Analyst | Lionchase North America</b></summary>
   <ul>
     <li>Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR[cite: 24, 25].</li>
-    <li>Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders[cite: 25, 26].</li>
+    <li>Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.</li>
   </ul>
 </details>
 
