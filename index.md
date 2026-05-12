@@ -45,6 +45,7 @@
 ### [Popcorn Picks](link-to-your-repo)
 * **Tech Stack:** Python, Django, REST APIs, OAuth 2.0
 * **Overview:** Engineered an advanced movie recommendation platform, integrating a complex external database API and Google Sign-In authentication to deliver personalized user feeds.
+
 ---
 
 ## 💼 Experience
