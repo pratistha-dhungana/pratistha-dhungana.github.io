@@ -58,14 +58,14 @@ Whether I am architecting logic engines to optimize human workflows or building 
 
 ## Recommendations
 
-*"Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
+"Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
 — Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)
 
 ---
 
 ## 📷 Beyond the Screen
+When I am not on my computer, you can usually find me: 
 
-When I'm not mapping out data pipelines, you can usually find me:
 * ✂️ **Analog Scrapbooking:** Documenting my daily life in a physical journal and curating personal aesthetics.
 * 📖 **Literary Escapes:** Reading American classics and realistic fiction. *(Currently reading: [The Book Thief by Markus Zusak])*
 * 🍳 **Global Culinary Experiments:** Testing out and learning new recipes from different cultures around the world.
