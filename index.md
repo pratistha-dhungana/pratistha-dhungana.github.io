@@ -1,16 +1,21 @@
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/pratistha-dhungana/pratistha-dhungana.github.io/main/image/profile.JPG" width="200" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2); flex-shrink: 0;">
-  <div style="flex: 1; min-width: 300px;">
-    <h1>Pratistha Dhungana</h1>
-    <p>I am a systems thinker passionate about using technology and data to solve human behavioral problems. With a dual background in Computer Science and Applied Statistics, I specialize in bridging the gap between complex backend architecture and intuitive, client-facing solutions.</p>
-    <p>Whether I am architecting logic engines to optimize human workflows or building robust pipelines to translate physiological data into actionable insights, I focus on the 'why' behind the technology.</p>
-    <a href="https://www.linkedin.com/in/pratistha-dhungana-4ba3a6251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/pratistha-dhungana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="mailto:pdhunga0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </div>
+<div align="left">
+  <h1>Pratistha Dhungana</h1>
+  <table style="width: 100%; border: none;">
+    <tr>
+      <td style="width: 30%; vertical-align: top; border: none;">
+        <img src="https://raw.githubusercontent.com/pratistha-dhungana/pratistha-dhungana.github.io/main/image/profile.JPG" width="250" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
+      </td>
+      <td style="width: 70%; vertical-align: top; border: none; padding-left: 20px;">
+        <p>I am a systems thinker passionate about using technology and data to solve human behavioral problems. With a dual background in <b>Computer Science and Applied Statistics</b>, I specialize in bridging the gap between complex backend architecture and intuitive, client-facing solutions.</p>
+        <p>Whether I am architecting logic engines to optimize human workflows or building robust pipelines to translate physiological data into actionable insights, I focus on the 'why' behind the technology.</p>
+        <br>
+        <a href="https://www.linkedin.com/in/pratistha-dhungana-4ba3a6251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://github.com/pratistha-dhungana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="mailto:pdhunga0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br>
 
 <div align="center">
   <h3>
