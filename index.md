@@ -82,6 +82,13 @@
 
 ---
 
+## 💬 Recommendations
+
+> "Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
+> <br>— *Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)*
+
+---
+
 <a id="beyond-the-screen"></a>
 ## 📷 Beyond the Screen
 When I am not on my computer, you can usually find me: 
