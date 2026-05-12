@@ -19,10 +19,10 @@
 
 <div align="center">
   <h3>
-    <a href="#technical-arsenal">🛠️ Tech Stack</a> &nbsp; | &nbsp;
-    <a href="#featured-projects">💻 Projects</a> &nbsp; | &nbsp;
-    <a href="#experience">💼 Experience</a> &nbsp; | &nbsp;
-    <a href="#education">🎓 Education</a> &nbsp; | &nbsp;
+    <a href="#technical-arsenal">🛠️ Tech Stack</a> &nbsp;| &nbsp;
+    <a href="#featured-projects">💻 Projects</a> &nbsp;| &nbsp;
+    <a href="#experience">💼 Experience</a> &nbsp;| &nbsp;
+    <a href="#education">🎓 Education</a> &nbsp;| &nbsp;
     <a href="#beyond-the-screen">📷 Beyond the Screen</a>
   </h3>
 </div>
