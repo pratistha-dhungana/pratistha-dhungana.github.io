@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Soft pink + professional blue/green palette */
+.page-header {
+  background: linear-gradient(120deg, #149463, #d889a8);
+}
+
+.main-content h1,
+.main-content h2 {
+  color: #0a9b63;
+}
+
+.main-content h3 {
+  color: #0366d6;
+}
+
+.main-content a {
+  color: #0366d6;
+}
+
+.main-content blockquote {
+  border-left: 4px solid #e6a9bd;
+  background: #fff7fa;
+  color: #5f6d73;
+  padding: 0.8rem 1rem;
+}
+
+.main-content hr {
+  border-bottom: 1px solid #eadde3;
+}
+
+.main-content table,
+.main-content th,
+.main-content td {
+  border: none;
+}
