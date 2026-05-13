@@ -57,3 +57,24 @@
 .main-content div[align="center"] h3 {
   color: #c95f7c;
 }
+
+.portfolio-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 14px;
+  white-space: nowrap;
+  font-size: 1.15rem;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.portfolio-nav a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.portfolio-nav span {
+  color: #c95f7c;
+}
