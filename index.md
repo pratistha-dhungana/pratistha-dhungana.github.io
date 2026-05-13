@@ -58,15 +58,18 @@
 <a id="experience"></a>
 ## 💼 Experience
 
-### [Data Analyst Intern | Virginia Department of Transportation (VDOT)]
+<h3 style="color:#0366d6;">Data Analyst Intern | Virginia Department of Transportation (VDOT)</h3>
+
 * Cleaned and validated over 10,000 internship and exam records using Python, Pandas, and Excel, implementing automated checks for schema consistency that reduced manual data cleanup by 35%.
 * Analyzed statewide survey data across nine districts and delivered an executive presentation to senior management that provided actionable recommendations adopted for the upcoming program cycle.
 
-### [Software Developer Intern | Netheart Technology]
+<h3 style="color:#0366d6;">Software Developer Intern | Netheart Technology</h3>
+
 * Engineered back-end Python components to manage database responses, ensuring seamless front-end integration.
 * Developed automated tests to validate code correctness and collaborated within an Agile framework to elevate system reliability.
 
-### [Private Equity Spring Analyst | Lionchase North America]
+<h3 style="color:#0366d6;">Private Equity Spring Analyst | Lionchase North America</h3>
+
 * Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR.
 * Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.
 
@@ -75,10 +78,10 @@
 <a id="education"></a>
 ## 🎓 Education
 
-### [University of Virginia (https://www.virginia.edu/) | May 2026]
+<h3 style="color:#0366d6;">University of Virginia | May 2026</h3>
 
-**Degrees:** Computer Science & Applied Statistics
-**Minor:** Data Science 
+**Degrees:** Computer Science & Applied Statistics  
+**Minor:** Data Science  
 
 * **Core Engineering:** Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity 
 * **Advanced Analytics:** Statistical Machine Learning, Machine Learning, Data Analysis with Python, Data Science Systems
@@ -87,8 +90,14 @@
 
 ## 💬 Recommendations
 
-> "Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional."
-> <br>— *Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)*
+<blockquote>
+  <p>
+    “Pratistha approached data thoughtfully... and focused not only on producing results but on understanding what the data revealed and why it mattered. She would be an asset to any organization seeking a capable, thoughtful, and analytically driven professional.”
+  </p>
+  <p style="color:#0366d6;">
+    <em>— Dr. Jameo D. Pollock, Assistant Division Administrator, HR – Workforce Development (VDOT)</em>
+  </p>
+</blockquote>
 
 ---
 
