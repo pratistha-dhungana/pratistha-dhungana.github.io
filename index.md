@@ -58,15 +58,15 @@
 <a id="experience"></a>
 ## 💼 Experience
 
-### Data Analyst Intern | Virginia Department of Transportation (VDOT)
+### [Data Analyst Intern] | Virginia Department of Transportation (VDOT)
 * Cleaned and validated over 10,000 internship and exam records using Python, Pandas, and Excel, implementing automated checks for schema consistency that reduced manual data cleanup by 35%.
 * Analyzed statewide survey data across nine districts and delivered an executive presentation to senior management that provided actionable recommendations adopted for the upcoming program cycle.
 
-### Software Developer Intern | Netheart Technology
+### [Software Developer Intern] | Netheart Technology
 * Engineered back-end Python components to manage database responses, ensuring seamless front-end integration.
 * Developed automated tests to validate code correctness and collaborated within an Agile framework to elevate system reliability.
 
-### Private Equity Spring Analyst | Lionchase North America
+### [Private Equity Spring Analyst] | Lionchase North America
 * Conducted rigorous financial due diligence using CoStar, leveraging data-driven modeling of cash flows and market trends to identify investment targets exceeding an 18% IRR.
 * Synthesized complex property analytics into compelling pitch books, translating quantitative market data into strategic investment narratives for key stakeholders.
 
@@ -75,9 +75,10 @@
 <a id="education"></a>
 ## 🎓 Education
 
-**University of Virginia** | May 2026 
+### [University of Virginia](https://www.virginia.edu/) | May 2026
 
-**Degrees:** Computer Science & Applied Statistics | **Minor:** Data Science 
+**Degrees:** Computer Science & Applied Statistics
+**Minor:** Data Science 
 
 * **Core Engineering:** Software Engineering, Computer Systems & Organization, Data Structures & Algorithms, Cybersecurity 
 * **Advanced Analytics:** Statistical Machine Learning, Machine Learning, Data Analysis with Python, Data Science Systems
