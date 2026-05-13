@@ -17,14 +17,16 @@
   </table>
 </div>
 
-<div align="center">
-  <h3>
-    <a href="#technical-arsenal">🛠️ Tech Stack</a> &nbsp;| &nbsp;
-    <a href="#featured-projects">💻 Projects</a> &nbsp;| &nbsp;
-    <a href="#experience">💼 Experience</a> &nbsp;| &nbsp;
-    <a href="#education">🎓 Education</a> &nbsp;| &nbsp;
-    <a href="#beyond-the-screen">📷 Beyond the Screen</a>
-  </h3>
+<div class="portfolio-nav">
+  <a href="#technical-arsenal">🛠️ Tech Stack</a>
+  <span>|</span>
+  <a href="#featured-projects">💻 Projects</a>
+  <span>|</span>
+  <a href="#experience">💼 Experience</a>
+  <span>|</span>
+  <a href="#education">🎓 Education</a>
+  <span>|</span>
+  <a href="#beyond-the-screen">📷 Beyond the Screen</a>
 </div>
 
 ---
