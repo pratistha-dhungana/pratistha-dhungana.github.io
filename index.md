@@ -3,7 +3,7 @@
   <table style="width: 100%; border: none;">
     <tr>
       <td style="width: 30%; vertical-align: top; border: none;">
-        <img src="https://raw.githubusercontent.com/pratistha-dhungana/pratistha-dhungana.github.io/main/image/profile.JPG" width="250" alt="Picture of Pratistha" style="border: 10px solid white; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
+        <img src="https://raw.githubusercontent.com/pratistha-dhungana/pratistha-dhungana.github.io/main/image/profile.JPG" width="250" alt="Picture of Pratistha" style="border: 10px #FFC0CBe; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
       </td>
       <td style="width: 70%; vertical-align: top; border: none; padding-left: 20px;">
         <p>I am a systems thinker passionate about using technology and data to solve human behavioral problems. With a dual background in <b>Computer Science and Applied Statistics</b>, I specialize in bridging the gap between complex backend architecture and intuitive, client-facing solutions.</p>
