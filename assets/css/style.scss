@@ -8,6 +8,16 @@
   background: linear-gradient(120deg, #d889a8, #6f8fcf);
 }
 
+/* Normal body text: dark gray */
+.main-content {
+  color: #222222;
+}
+
+.main-content p,
+.main-content li {
+  color: #222222;
+}
+
 /* Main section headings: pink */
 .main-content h1,
 .main-content h2 {
@@ -24,27 +34,26 @@
   color: #0366d6;
 }
 
-/* Quote/recommendation styling */
+
 .main-content blockquote {
   border-left: 4px solid #e6a9bd;
   background: #fff7fa;
-  color: #5f6d73;
+  color: #222222;
   padding: 0.8rem 1rem;
 }
 
-/* Softer divider lines */
+
 .main-content hr {
   border-bottom: 1px solid #eadde3;
 }
 
-/* Removes table boxes */
+
 .main-content table,
 .main-content th,
 .main-content td {
   border: none;
 }
 
-/* Optional: make the top nav separators pink */
 .main-content div[align="center"] h3 {
   color: #c95f7c;
 }
