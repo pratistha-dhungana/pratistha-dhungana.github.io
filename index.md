@@ -6,8 +6,7 @@
         <img src="https://raw.githubusercontent.com/pratistha-dhungana/pratistha-dhungana.github.io/main/image/profile.JPG" width="250" alt="Picture of Pratistha" style="border: 10px #FFC0CB; border-radius: 4px; box-shadow: 2px 4px 8px rgba(0,0,0,0.2);">
       </td>
       <td style="width: 70%; vertical-align: top; border: none; padding-left: 20px;">
-        <p>I am a systems thinker passionate about using technology and data to solve human behavioral problems. With a dual background in <b>Computer Science and Applied Statistics</b>, I specialize in bridging the gap between complex backend architecture and intuitive, client-facing solutions.</p>
-        <p>Whether I am architecting logic engines to optimize human workflows or building robust pipelines to translate physiological data into actionable insights, I focus on the 'why' behind the technology.</p>
+        <p>I am a systems developer passionate about using data and technology to solve complex problems. My background in Computer Science and Applied Statistics allows me to seamlessly bridge backend architecture with intuitive, client-facing solutions. By focusing on the 'why' behind the code, I design workflow engines and data pipelines that are not only mathematically rigorous, but built to deliver practical value.</p>
         <br>
         <a href="https://www.linkedin.com/in/pratistha-dhungana-4ba3a6251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://github.com/pratistha-dhungana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
